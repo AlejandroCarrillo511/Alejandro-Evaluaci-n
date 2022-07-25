@@ -1,0 +1,16 @@
+.container{
+    background-color: red;
+    
+}
+.card-title{
+    color: blue;
+    font-family:  'Times New Roman';
+}
+.card-body{
+    background-color: silver;
+}
+
+.card-text{
+    font-family: 'Times New Roman';
+    color:  black;
+}
